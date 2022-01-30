@@ -56,7 +56,7 @@
                 }
               ],
               "outputHashing": "none",
-              "baseHref": "/samples/pages/diff-view/"
+              "baseHref": "/pages/diff-view/"
             },
             "development": {
               "buildOptimizer": false,
